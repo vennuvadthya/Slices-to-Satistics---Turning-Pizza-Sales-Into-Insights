@@ -114,6 +114,6 @@ pizza-sales-data-analysis/
 
   
 ## 👤 Author
-**Sanju Kumar**  
+**V Vennela**  
 Aspiring Data Analyst  
-📊 SQL | Power BI | Data Analysis
+📊 SQL  | Power BI | Data Analysis
